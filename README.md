@@ -4,18 +4,18 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **E-Commerce Website using React.js,Redux**
 
-- 🌱 I’m currently learning **Spring,Spring Boot,Spring MVC**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java,SQL,React.js**
+- 💬 Ask me about **Java,SQL,React.js,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **bhargavsai1304@gmail.com**
 
-- 📄 Know about my experiences [rr](rr)
+- 📄 Know about my experiences **I have 6 months of intership experience in Web Devlopement**
 
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.vercel.app" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://incredible-panda-208bbd.netlify.app/" target="_blank">Portfolio</a>**
 
   
 
